@@ -1,4 +1,4 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svghttp://www.crsoft.org/wp-content/uploads/2017/02/Logo-fondo-negro-01.png"></p>
+<p align="center"><img src="http://www.crsoft.org/wp-content/uploads/2017/02/Logo-fondo-negro-01.png"></p>
 
 
 
